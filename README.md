@@ -1,5 +1,10 @@
 # Projeto Gerador de Memes
 
+# Integrantes!
+
+- Gustavo Marins Bitencourt.
+- João Paulo Martins de Oliveira.
+
 ## Bibliotecas/Módulos utilizados!
 
 - [Axios](https://github.com/axios/axios): Cliente HTTP baseado em Promises, foi utilizado para fazer requisições;
